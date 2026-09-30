@@ -1,33 +1,33 @@
-# Hi there, I'm Mat??as Hern??ndez ????
-### Software Engineer & BI Specialist ?? AI Solutions & Ontological Coach
+# Hi there, I'm Matias Hernandez 👋
+### Software Engineer & BI Specialist · AI Solutions & Ontological Coach
 
-???? *Buenos Aires, Argentina (Available for Remote Global Roles)*  
-???? **[LinkedIn](https://www.linkedin.com/in/matias-hugo-ariel-hernandez-0520377/)** ?? ?????? **[Contact via Email](mailto:matias.h.a.hernandez@gmail.com)**
+📍 *Buenos Aires, Argentina (Available for Remote Global Roles)*  
+🔗 **[LinkedIn](https://www.linkedin.com/in/matias-hugo-ariel-hernandez-0520377/)** · ✉️ **[Contact via Email](mailto:matias.h.a.hernandez@gmail.com)**
 
 ---
 
-### ??????????? About Me
+### 👨‍💻 About Me
 
 I build digital products at the intersection of **Software Engineering, Artificial Intelligence, and Data Intelligence**. With a background combining systems administration, Business Intelligence, and **Ontological Coaching**, I design scalable tools that automate complex workflows and foster high-performing teams.
 
-* ???? **AI & Modern Software:** Building full-stack SaaS applications, autonomous agentic workflows, and LLM-integrated platforms.
-* ???? **Data & Business Intelligence:** Creating end-to-end data pipelines, custom ETLs, and executive dashboards (Looker Studio, PostgreSQL, Google Sheets).
-* ???? **Leadership & Coaching:** Applying Ontological Coaching frameworks to align technical vision with accountability, clear communication, and execution speed.
+* 🤖 **AI & Modern Software:** Building full-stack SaaS applications, autonomous agentic workflows, and LLM-integrated platforms.
+* 📊 **Data & Business Intelligence:** Creating end-to-end data pipelines, custom ETLs, and executive dashboards (Looker Studio, PostgreSQL, Google Sheets).
+* 🎯 **Leadership & Coaching:** Applying Ontological Coaching frameworks to align technical vision with accountability, clear communication, and execution speed.
 
 ---
 
-### ???? Featured Projects & Live SaaS
+### 🚀 Featured Projects & Live SaaS
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Pliego Smart AI** | AI-driven SaaS platform that analyzes public procurement tenders (licitaciones), assesses viability, and automates bid preparation. | `Next.js` `TypeScript` `OpenAI` `TailwindCSS` | [???? Live App](https://pliegos.vercel.app) ?? [???? Repo](https://github.com/tutecoach/pliegos) |
-| **VECTOR ?? SOFTMIP** | Comprehensive B2B ERP & Operations platform for the Pest Control (MIP) industry in LATAM, ensuring ISO/HACCP compliance. | `React` `TypeScript` `Vite` `TailwindCSS` | [???? Live Demo](https://vector-v2-two.vercel.app) ?? [???? Repo](https://github.com/tutecoach/vectorV2) |
-| **GradeFlow** | Universal academic performance & longitudinal analytics platform with multi-agent architecture and multimodal ingestion. | `JavaScript` `Chart.js` `HTML5` `CSS3` | [???? Repo](https://github.com/tutecoach/gradeflow) |
-| **HEVC Video Compressor** | High-efficiency automated batch video compression engine using H.265/HEVC with a real-time CLI dashboard & CI/CD. | `Python 3.9+` `FFmpeg` `Rich` `GitHub Actions` | [???? Repo](https://github.com/tutecoach/video-compressor-hevc) |
+| **Pliego Smart AI** | AI-driven SaaS platform that analyzes public procurement tenders (licitaciones), assesses viability, and automates bid preparation. | `Next.js` `TypeScript` `OpenAI` `TailwindCSS` | [🌐 Live App](https://pliegos.vercel.app) · [💻 Repo](https://github.com/tutecoach/pliegos) |
+| **VECTOR · SOFTMIP** | Comprehensive B2B ERP & Operations platform for the Pest Control (MIP) industry in LATAM, ensuring ISO/HACCP compliance. | `React` `TypeScript` `Vite` `TailwindCSS` | [🌐 Live Demo](https://vector-v2-two.vercel.app) · [💻 Repo](https://github.com/tutecoach/vectorV2) |
+| **GradeFlow** | Universal academic performance & longitudinal analytics platform with multi-agent architecture and multimodal ingestion. | `JavaScript` `Chart.js` `HTML5` `CSS3` | [💻 Repo](https://github.com/tutecoach/gradeflow) |
+| **HEVC Video Compressor** | High-efficiency automated batch video compression engine using H.265/HEVC with a real-time CLI dashboard & CI/CD. | `Python 3.9+` `FFmpeg` `Rich` `GitHub Actions` | [💻 Repo](https://github.com/tutecoach/video-compressor-hevc) |
 
 ---
 
-### ???? GitHub Activity
+### 📈 GitHub Activity
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I build digital products at the intersection of **Software Engineering, Artifici
 
 ---
 
-### ??????? Technical Arsenal
+### 🛠️ Technical Arsenal
 
 #### **Languages & Core Development**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -70,14 +70,14 @@ I build digital products at the intersection of **Software Engineering, Artifici
 
 ---
 
-### ???? Core Value Proposition
+### 🌟 Core Value Proposition
 
-* ???? **Full Product Lifecycle:** From domain problem discovery and system design to rapid SaaS prototype and production deployment.
-* ???? **Business-Oriented Engineering:** Deep focus on ROI, metric tracking, automated efficiency, and clean UX.
-* ???? **High-Performance Culture:** Certified coaching acumen applied to mentorship, team alignment, and cross-functional execution.
+* 💡 **Full Product Lifecycle:** From domain problem discovery and system design to rapid SaaS prototype and production deployment.
+* 📈 **Business-Oriented Engineering:** Deep focus on ROI, metric tracking, automated efficiency, and clean UX.
+* 🤝 **High-Performance Culture:** Certified coaching acumen applied to mentorship, team alignment, and cross-functional execution.
 
 ---
 
-### ??? Beyond the Code
+### ⚡ Beyond the Code
 
-When I'm not architecting code or designing BI workflows, you'll find me training CrossFit, skiing down mountain slopes, playing with my band, or grilling an authentic Argentine asado. ??????????????
+When I'm not architecting code or designing BI workflows, you'll find me training CrossFit, skiing down mountain slopes, playing with my band, or grilling an authentic Argentine asado. 🎸⛷️🥩
